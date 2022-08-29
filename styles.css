@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#caja1{
+    width: 70%;
+    height: 70%;
+    h1{color:black}
+    #caja2{
+        width:30%;
+        height:70%;
+        h2{color:black}
+    }
+    #caja3{
+        width:30%;
+        height:30%;
+        h3
+    }
+
+}
